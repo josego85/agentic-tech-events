@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.0] - 2025-07-07
+## [1.0.0] - 2025-07-07
 
 ### Added
 - Initial project setup.
