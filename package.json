@@ -1,0 +1,25 @@
+{
+  "name": "agentic-tech-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agentic.ts",
+  "scripts": {
+    "dev": "npx ts-node src/agentic.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^17.0.1",
+    "env-var": "^7.5.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
